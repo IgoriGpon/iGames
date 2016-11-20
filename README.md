@@ -1,0 +1,2 @@
+# iGames
+Bot of discord
